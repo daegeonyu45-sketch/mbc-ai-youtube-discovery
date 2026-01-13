@@ -1,0 +1,5 @@
+{
+  "name": "YT Insights AI",
+  "description": "An advanced YouTube analysis dashboard powered by Gemini. Search for videos, analyze engagement, and chat with AI to get deep insights from video metadata and descriptions.",
+  "requestFramePermissions": []
+}
